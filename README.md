@@ -11,7 +11,7 @@
 ---
 
 ### About Me
-I am a dedicated professional with a Master's in Computer Science and a relentless drive for excellence. I thrive on embracing new challenges and leveraging my skills in data analysis and machine learning to solve complex problems. My practical experience includes verifying the reproducibility of ML models, managing data with Python and Excel, and extracting meaningful insights to support research outcomes.
+I am a dedicated professional with a Master's in Data Science and a relentless drive for excellence. I thrive on embracing new challenges and leveraging my skills in data analysis and machine learning to solve complex problems. My practical experience includes verifying the reproducibility of ML models, managing data with Python and Excel, and extracting meaningful insights to support research outcomes.
 
 ---
 ### 🛠️ My Technical Skillset
