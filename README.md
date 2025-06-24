@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/mdshafayet-chy/Personal-Portfolio/main/src/assets/images/banner.png" width="1000px" alt="Banner"/>
   <h1 align="center">Hi, I'm MD Shafayet Chowdhury 👋</h1>
   <h3 align="center">A Data Analyst and Machine Learning practitioner with a focus on building and deploying impactful models.</h3>
   <p align="center">
