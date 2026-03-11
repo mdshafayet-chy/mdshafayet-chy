@@ -34,25 +34,6 @@ I am a dedicated professional with a Master's in Data Science and a relentless d
           <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="icon" width="65" height="65" /><br>Matplotlib</td>
         </tr>
       </table>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Machine Learning Engineer Toolkit</h3>
-      <table align="center">
-        <tr>
-          <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="icon" width="65" height="65" /><br>TensorFlow</td>
-          <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="icon" width="65" height="65" /><br>PyTorch</td>
-          <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="icon" width="65" height="65" /><br>Scikit-learn</td>
-          <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="icon" width="65" height="65" /><br>HuggingFace</td>
-        </tr>
-        <tr>
-          <td align="center"  width="96"><img src="https://www.vectorlogo.zone/logos/nltk/nltk-ar21.svg" alt="icon" width="65" height="65" /><br>NLTK</td>
-          <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="icon" width="65" height="65" /><br>Docker</td>
-          <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="icon" width="65" height="65" /><br>C++</td>
-          <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="65" height="65" /><br>Git</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
 </table>
 
 ---
